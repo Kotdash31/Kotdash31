@@ -44,7 +44,7 @@
  |Link         | Project         |Description  |Stack |
 |--------------|--------------|------------------|-----------------------|
 |[Dashboard KPI](https://github.com/Kotdash31/dashboard)|Creating of Dashboard for tracking and analyzing main KPI metrics and their dynamic| Requirements gathering, preparing of canvas, data downloading and preparation, datasets creation, charts design, dashvoard composition|MS Excel, Yandex DatLens|
-|[RFM segmentation](https://github.com/Kotdash31/RFM-segmentation)|This project demonstrates how to segment customers using RFM analysis (Recency, Frequency, Monetary) based on transaction data.|Data preparation,  calculation RFM metrics, assigning score to metrics values via quantiles, joining scores of metrics together for each cuastomer, displaying customers with the biggest score, visualization of segment size(R,F)|Python, Pandas, Seaborn, Matplotlib|
+|[RFM segmentation](https://github.com/Kotdash31/RFM-segmentation)|This project demonstrates how to segment customers using RFM analysis (Recency, Frequency, Monetary) based on transaction data.|Data preparation,  calculation RFM metrics, assigning score to metrics values via quantiles, joining scores of metrics together for each cuastomer, displaying customers with the biggest score, visualization of segment size(R,F)|Python, Pandas, Seaborn, Matplotlib, Jupiter Notebook|
 
 
 
