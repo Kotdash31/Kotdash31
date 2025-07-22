@@ -5,7 +5,7 @@
 
 
 ### 🚀 What I do
-- 📊 Product and marketing analytics
+- 📊 EDA analysis
 - 🧪 A/B testing & experiment analysis (T-Test, Bootstrap)
 - 📈 LTV, ARPPU, retention & cohort analysis
 - 📌 Dashboards in Power BI, Yandex DataLens, and Redash
