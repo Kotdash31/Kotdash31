@@ -1,7 +1,7 @@
 ## Hi there, I'm Darya 👋
 
 👩🏻‍💻 Data analyst  
-📩 To contact: [Telegram](https://t.me/kotdash31) / [Email](mailto:kotdarya00@gmail.com) / [LinkedIn](www.linkedin.com/in/darya-kot-54b55a36a)
+📩 To contact: [Telegram](https://t.me/kotdash31) / [Email](mailto:kotdarya00@gmail.com) / [LinkedIn](https://www.linkedin.com/in/darya-kot-54b55a36a/)
 
 
 ### 🚀 What I do
